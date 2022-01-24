@@ -1,1 +1,4 @@
-# Mash-On-Wakeup-Quest
+# Mash-On-Wakeup-Quest 
+01/23/22 - 15:36pm
+Currently relearning CSS, so the site looks kinda like shit. The thing about web development is that you gotta learn and do shit while learning. I have been slacking on doing projects but I understand that I must stop, study smarter and not harder. Anyhow, onto the website.
+So right now, all I did was created pages and a shitty navbar with a search input that doesn't work for shit. Sorry for the language but doing that on a site like this is fun and will probably keep me engaged. As for other things, I had a list of games that will be part of my video series. As for sorting them, I just colorized some of the games. I want to do another way, maybe with some javascript. Anyways, site is barebones as of right now but I would like to make it more appealing in the future when I upgrade my skills in CSS. Ya'll have a great day!
